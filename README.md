@@ -1,37 +1,28 @@
-# Hi, I'm @RosarioM123 👋
+# hey, i'm @RosarioM123 👋
 
-I'm a Finance and Computer Science sophomore at Fordham University building systems where finance meets software — deterministic state engines, spatial intelligence, and disciplined quantitative research.
+sophomore at fordham studying finance + computer science. i build systems where money meets machines — deterministic state engines, spatial intelligence, and quant research.
 
-## 🚀 What I'm building
+### things i've built
 
-**[WORLD](https://github.com/RosarioM123/world-ai-infrastructure)** — AI-native work-state infrastructure: a deterministic state engine with a SHA-256 hash-chained intent ledger, capacity/liquidity constraints, live data ingestion, and a FastAPI dashboard. Rogue-agent drains get REJECTED; legal intents get COMMITTED.
+**WORLD** — deterministic work-state infrastructure. every action is an intent hashed into a ledger; the engine rejects what breaks the rules. rogue agents get REJECTED, legal intents get COMMITTED.
+→ [world-ai-infrastructure](https://github.com/RosarioM123/world-ai-infrastructure)
 
-**[REALITY](https://github.com/RosarioM123/reality-spatial-intelligence)** — spatial intelligence toolkit: a packaged Python library with a pytest suite, examples, and full docs.
+**REALITY** — spatial intelligence toolkit. packaged python library, full pytest suite, docs.
+→ [reality-spatial-intelligence](https://github.com/RosarioM123/reality-spatial-intelligence)
 
-**[ALPHA](https://github.com/RosarioM123/quant-research-lab)** — a miniature quantitative research lab running a disciplined $100 paper-trading experiment. Point-in-time data integrity and leakage tests come before any model touches capital. Research-stage and honest about it.
+**SIGNAL** — quantitative research lab. a disciplined $100 paper-trading experiment — data integrity and leakage tests before any model touches capital.
+→ [quant-research-lab](https://github.com/RosarioM123/quant-research-lab)
 
-## 🌱 Relevant coursework
+### coursework
 
-<!-- Keep the ones you've taken or are taking now; drop the rest -->
-**Computer Science**
-- CISC 2200: Data Structures
-- CISC 4080: Computer Algorithms
-- MATH 2001: Discrete Mathematics
-- MATH 2006: Linear Algebra I
-- CISC 3500: Database Systems
-- CISC 3595: Operating Systems
+**cs** — CISC 2200 data structures · CISC 4080 computer algorithms · MATH 2001 discrete math · MATH 2006 linear algebra · CISC 3500 databases · CISC 3595 operating systems
 
-**Finance**
-- FNBU 3441: Investments & Security Analysis
-- FNBU 3446: Futures and Options Markets
-- FNBU 3442: Portfolio Management
-- FNBU 4454: Financial Modeling
-- INSY 3436: Programming with Python (Fintech)
+**finance** — FNBU 3441 investments & security analysis · FNBU 3446 futures & options · FNBU 3442 portfolio management · FNBU 4454 financial modeling · INSY 3436 python for fintech
 
-## 📫 Find me
+### socials
 
-- [LinkedIn](https://www.linkedin.com/in/rosariom123/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosariom123/)
 
-## ⚡ Fun fact
+### fun fact
 
-I love reading Augustinian theology and have C2 proficiency in Latin.
+i read augustinian theology for fun and i'm c2-proficient in latin.
