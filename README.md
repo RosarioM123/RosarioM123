@@ -1,6 +1,6 @@
 # @RosarioM123
 
-Finance and Computer Science sophomore at Fordham University. I build deterministic systems and quantitative research tools.
+Finance and Computer Science student at Fordham University, Gabelli School of Business. I build deterministic systems and quantitative research tools.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
