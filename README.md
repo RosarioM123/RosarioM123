@@ -1,28 +1,39 @@
-# hey, i'm @RosarioM123 👋
+# @RosarioM123
 
-sophomore at fordham studying finance + computer science. i build systems where money meets machines — deterministic state engines, spatial intelligence, and quant research.
+Finance and Computer Science sophomore at Fordham University. I build deterministic systems and quantitative research tools.
 
-### things i've built
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white)
 
-**WORLD** — deterministic work-state infrastructure. every action is an intent hashed into a ledger; the engine rejects what breaks the rules. rogue agents get REJECTED, legal intents get COMMITTED.
-→ [world-ai-infrastructure](https://github.com/RosarioM123/world-ai-infrastructure)
+## Projects
 
-**REALITY** — spatial intelligence toolkit. packaged python library, full pytest suite, docs.
-→ [reality-spatial-intelligence](https://github.com/RosarioM123/reality-spatial-intelligence)
+### WORLD: deterministic work-state infrastructure
+[world-ai-infrastructure](https://github.com/RosarioM123/world-ai-infrastructure)
 
-**SIGNAL** — quantitative research lab. a disciplined $100 paper-trading experiment — data integrity and leakage tests before any model touches capital.
-→ [quant-research-lab](https://github.com/RosarioM123/quant-research-lab)
+A deterministic state engine backed by a SHA-256 hash-chained intent ledger. Every proposed state transition is validated against capacity, liquidity, and node-lock constraints before it can commit. Includes a live Open-Meteo ingestion pipeline and a FastAPI dashboard. The working demo rejects rogue-agent drains and commits legal intents, with each attempt recorded on the ledger.
 
-### coursework
+### REALITY: spatial intelligence toolkit
+[reality-spatial-intelligence](https://github.com/RosarioM123/reality-spatial-intelligence)
 
-**cs** — CISC 2200 data structures · CISC 4080 computer algorithms · MATH 2001 discrete math · MATH 2006 linear algebra · CISC 3500 databases · CISC 3595 operating systems
+A packaged Python library with a full pytest suite, runnable examples, and documentation.
 
-**finance** — FNBU 3441 investments & security analysis · FNBU 3446 futures & options · FNBU 3442 portfolio management · FNBU 4454 financial modeling · INSY 3436 python for fintech
+### SIGNAL: quantitative research lab
+[quant-research-lab](https://github.com/RosarioM123/quant-research-lab)
 
-### socials
+A miniature quant lab running a disciplined $100 paper-trading experiment. Point-in-time data integrity and leakage tests precede any modeling. Long-only, no leverage, measured against a frozen SPY benchmark.
+
+## Coursework
+
+**Computer Science:** CISC 2200 Data Structures, CISC 4080 Computer Algorithms, MATH 2001 Discrete Mathematics, MATH 2006 Linear Algebra I, CISC 3500 Database Systems, CISC 3595 Operating Systems
+
+**Finance:** FNBU 3441 Investments and Security Analysis, FNBU 3446 Futures and Options Markets, FNBU 3442 Portfolio Management, FNBU 4454 Financial Modeling, INSY 3436 Programming with Python (Fintech)
+
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosariom123/)
 
-### fun fact
+## Interests
 
-i read augustinian theology for fun and i'm c2-proficient in latin.
+Reader of Augustinian theology. C2 proficiency in Latin.
