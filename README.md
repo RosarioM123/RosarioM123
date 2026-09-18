@@ -14,13 +14,13 @@ Finance and Computer Science student at Fordham University, Gabelli School of Bu
 
 A deterministic state engine backed by a SHA-256 hash-chained intent ledger. Every proposed state transition is validated against capacity, liquidity, and node-lock constraints before it can commit. Includes a live Open-Meteo ingestion pipeline and a FastAPI dashboard. The working demo rejects rogue-agent drains and commits legal intents, with each attempt recorded on the ledger.
 
-### REALITY: spatial intelligence toolkit
+### REALITY: spatial intelligence 
 [reality-spatial-intelligence](https://github.com/RosarioM123/reality-spatial-intelligence)
 
 A packaged Python library with a full pytest suite, runnable examples, and documentation.
 
 ### SIGNAL: quantitative research lab
-[quant-research-lab](https://github.com/RosarioM123/quant-research-lab)
+[signal-research-lab](https://github.com/RosarioM123/signal-research-lab)
 
 A miniature quant lab running a disciplined $100 paper-trading experiment. Point-in-time data integrity and leakage tests precede any modeling. Long-only, no leverage, measured against a frozen SPY benchmark.
 
