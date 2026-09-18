@@ -10,7 +10,7 @@ Finance and Computer Science student at Fordham University, Gabelli School of Bu
 ## Projects
 
 ### WORLD: deterministic work-state infrastructure
-[world-ai-infrastructure](https://github.com/RosarioM123/world-ai-infrastructure)
+[world-workstate-infrastructure](https://github.com/RosarioM123/world-workstate-infrastructure)
 
 A deterministic state engine backed by a SHA-256 hash-chained intent ledger. Every proposed state transition is validated against capacity, liquidity, and node-lock constraints before it can commit. Includes a live Open-Meteo ingestion pipeline and a FastAPI dashboard. The working demo rejects rogue-agent drains and commits legal intents, with each attempt recorded on the ledger.
 
