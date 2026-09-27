@@ -24,6 +24,11 @@ A deterministic state engine backed by a SHA-256 hash-chained intent ledger. Eve
 
 1st place at the MongoDB Harness Engineering and Model Wrangling Hackathon (NYC, September 2026). An agent harness that persists code history, dependency graphs, patches, test outputs, and error logs in MongoDB Atlas across long-horizon code-migration runs; agents generate changes, run tests, parse failures, and adapt strategy from test results as hard feedback.
 
+### Robologue: procedural memory for embodied verification
+[robologue](https://github.com/shravanthi-m/Robologue)
+
+Procedural-memory harness that helps an agent verify task steps before advancing: persistent Atlas/SQLite checkpoints with restart recovery, hidden-label evaluation, and a policy-promotion gate that only accepts rules reducing false approvals. 136 tests green.
+
 ### Everesteer: quantitative hedge fund hackathon
 [eversteer-hackathon](https://github.com/RosarioM123/eversteer-hackathon)
 
