@@ -20,7 +20,6 @@ A deterministic state engine backed by a SHA-256 hash-chained intent ledger. Eve
 1st place winner at the Capital One Tech Summit Hackathon (May 2025). A web app connecting local investors with small businesses in their communities. Built with Matthew Thomas, Hien Nguyen, Evelyn Kwan, and Epaphras Akinola using HTML, CSS, and vanilla JavaScript.
 
 ### Relay: autonomous code-migration agent
-[shravanthi-m/Robologue](https://github.com/shravanthi-m/Robologue)
 
 1st place at the MongoDB Harness Engineering and Model Wrangling Hackathon (NYC, September 2026). An agent harness that persists code history, dependency graphs, patches, test outputs, and error logs in MongoDB Atlas across long-horizon code-migration runs; agents generate changes, run tests, parse failures, and adapt strategy from test results as hard feedback.
 
