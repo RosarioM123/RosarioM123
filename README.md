@@ -26,7 +26,7 @@ A deterministic state engine backed by a SHA-256 hash-chained intent ledger. Eve
 ### Robologue: procedural memory for embodied verification
 [robologue](https://github.com/shravanthi-m/Robologue)
 
-Procedural-memory harness that helps an agent verify task steps before advancing: persistent Atlas/SQLite checkpoints with restart recovery, hidden-label evaluation, and a policy-promotion gate that only accepts rules reducing false approvals. 136 tests green.
+Built with Shravanthi M at the MongoDB hackathon. Procedural-memory harness that helps an agent verify task steps before advancing: persistent Atlas/SQLite checkpoints with restart recovery, hidden-label evaluation, and a policy-promotion gate that only accepts rules reducing false approvals. 136 tests green.
 
 ### Everesteer: quantitative hedge fund hackathon
 [eversteer-hackathon](https://github.com/RosarioM123/eversteer-hackathon)
